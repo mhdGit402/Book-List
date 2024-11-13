@@ -1,0 +1,27 @@
+#add-book-form input {
+  margin: 20px;
+}
+#books-heading li {
+  display: inline-block;
+  padding: 20px;
+  font-weight: bold;
+}
+.books-info {
+  border-bottom: 1px solid gray;
+}
+.books-info li {
+  display: inline-block;
+  padding: 20px;
+}
+.invalid-book {
+  background-color: red;
+  color: white;
+}
+.valid-book {
+  background-color: green;
+  color: white;
+}
+.deleted-book {
+  background-color: yellow;
+  color: black;
+}
